@@ -1,0 +1,22 @@
+{
+    "name": "activpik/stomp-bundle",
+    "description": "Stomp bundle for Symfony 2",
+    "keywords": ["Stomp","bundle"],
+    "type": "symfony-bundle",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "Ludovic Bouguerra",
+            "email": "ludovic.bouguerra@kalyzee.com"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "2.*",
+        "twig/twig": "1.*"
+    },
+    "autoload": {
+        "psr-0": { "Activpik\\StompBundle": "" }
+    },
+    "target-dir": "Activpik/StompBundle"
+        
+}
