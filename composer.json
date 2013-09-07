@@ -3,7 +3,7 @@
     "description": "Stomp bundle for Symfony 2",
     "keywords": ["Stomp","bundle"],
     "type": "symfony-bundle",
-    "license": "Commercial",
+    "license": "GPL",
     "authors": [
         {
             "name": "Ludovic Bouguerra",
